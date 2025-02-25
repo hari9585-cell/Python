@@ -23,3 +23,34 @@ Submitted : Hari sankar
 12. Exercise 10 Name your file: PoundsToDollars.py Write a program that asks the user to enter an amount in pounds (£) and the program calculates and converts an amount in dollar ($) An example runs of the program: Please enter amount in pounds: XXX £ XXX are $ XXX
 
 13. saved the work and uploaded in Github.
+==============================================
+
+# Python Assignemnt 2
+
+This file is my projects regarding the topic on Python Jupyter, Viewers can see my latest works under this file.
+
+Submitted : Hari sankar
+
+# Data structures in Python
+
+# Steps :
+
+1. Opened Jupyter noteook.
+2. Connecte to Kernel.
+3. Worked on Excercise below.
+4. List Exercise Q1. Create a list of 5 random numbers and print the list. 
+5. Q2. Insert 3 new values to the list and print the updated list. 
+6. Q3. Try to use a for loop to print each element in the list. 
+7. Moved to Topic: Dictionary 
+ Exercise Q1. Create a dictionary with keys 'name', 'age', and 'address' and values 'John', 25, and 'New York' respectively. 
+ 8. Q2. Add a new key-value pair to the dictionary created in Q1 with key 'phone' and value '1234567890'.  
+ 9. Moved to Topic: Set Exercise 
+ Q1.Create a set with values 1, 2, 3, 4, and 5. 
+ 10. Q2. Add the value 6 to the set created in Q1. 
+ 11. Q3. Remove the value 3 from the set created in Q1.
+ 
+ 12. Moved to Topic:Tuple 
+ Exercise Q1. Create a tuple with values 1, 2, 3, and 4 
+ 13. Q2. Print the length of the tuple created in Q1.
+
+13. saved the work and uploaded in Github.
