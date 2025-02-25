@@ -1,5 +1,5 @@
 
-# Python Project
+# Python Assignment 1
 
 This file is my projects regarding the topic on Phyton Jupyter, Viewers can see my latest works under this file.
 
