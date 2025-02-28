@@ -86,3 +86,26 @@ Submitted : Hari sankar
 16. Saved work in Github.
 
 =======================================
+
+
+# Python Assignemnt 4
+
+This file is my projects regarding the topic on Python Jupyter, Viewers can see my latest works under this file.
+
+Submitted : Hari sankar
+
+# Python Function
+
+# Steps :
+
+1. Opened Jupyter noteook.
+2. Connecte to Kernel.
+3. Worked on Excercise below.
+4. Named the workbook as Assignment 4.
+5. Checked on Excercise and started the work as below:
+6. Exercise 1 : Create a function that takes in three arguments, two of which are optional. The first argument should be a required positional argument, the second argument should be a keyword argument with a default value of 10, and the third argument should be a keyword argument with a default value of None. The function should print the sum of the first two arguments if the third argument is None, and print the product of all three arguments if the third argument is not None.
+7. Exercise 2:  Write a function that takes in a list of strings and returns a new list with only the strings that have a length greater than or equal to 5.
+8. Exercise 3: (score : 2) Write a Python program to evaluate a given mathematical expression using the eval() function. expression = "3 * 5 + 2".
+9. Write a Python program to filter out the prime numbers from a given list of integers using the filter() function.
+10. Write a Python program to convert a list of strings to uppercase using the map() function.
+11. Saved the work and added in Github.
