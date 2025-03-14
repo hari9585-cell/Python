@@ -109,3 +109,31 @@ Submitted : Hari sankar
 9. Write a Python program to filter out the prime numbers from a given list of integers using the filter() function.
 10. Write a Python program to convert a list of strings to uppercase using the map() function.
 11. Saved the work and added in Github.
+
+    ===============================================================
+
+    
+# Python Assignemnt 5
+
+This file is my projects regarding the topic on Python Jupyter, Viewers can see my latest works under this file.
+
+Submitted : Hari sankar
+
+# File and Exception Handling
+
+
+# Steps :
+
+1. Opened Jupyter noteook.
+2. Connecte to Kernel.
+3. Worked on Excercise below.
+4. Named the workbook as Assignment 5.
+5. Checked on Excercise and started the work as below:
+6. Exercise 1: Write a Python program to read a file and display its contents 
+7. Exercise 2: Write a Python program to copy the contents of one file to another file 
+8. Exercise 3: Write a Python program to read the content of a file and count the total number of words in that file. 
+9. Exercise 4: Write a Python program that prompts the user to input a string and converts it to an integer. Use try-except blocks to handle any exceptions that might occur 
+10. Exercise 5: Write a Python program that prompts the user to input a list of integers and raises an exception if any of the integers in the list are negative. 
+11. Exercise 6: Write a Python program that prompts the user to input a list of integers and computes the average of those integers. Use try-except blocks to handle any exceptions that might occur.use the finally clause to print a message indicating that the program has finished running. 
+12. Exercise 7 : Write a Python program that prompts the user to input a filename and writes a string to that file. Use try-except blocks to handle any exceptions that might occur and print a welcome message if there is no exception occurred.
+13. Completed work and uploded file in Github.
