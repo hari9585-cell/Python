@@ -137,3 +137,30 @@ Submitted : Hari sankar
 11. Exercise 6: Write a Python program that prompts the user to input a list of integers and computes the average of those integers. Use try-except blocks to handle any exceptions that might occur.use the finally clause to print a message indicating that the program has finished running. 
 12. Exercise 7 : Write a Python program that prompts the user to input a filename and writes a string to that file. Use try-except blocks to handle any exceptions that might occur and print a welcome message if there is no exception occurred.
 13. Completed work and uploded file in Github.
+
+    ==================================================================
+
+    
+# Python Assignemnt 6 / Course Catalog (Question 1)
+
+This file is my projects regarding the topic on Python Jupyter, Viewers can see my latest works under this file.
+
+Submitted : Hari sankar
+
+# Python_Part_Assignment_OOPs
+
+# Steps :
+
+1. Opened Jupyter noteook.
+2. Connecte to Kernel.
+3. Worked on Excercise below.
+4. Named the workbook as Assignment 6/Course Catalog_Ques1.
+5. Checked on Excercise and started the work as below:
+6. Create a base class Course with attributes course_code, course_name, and credit_hours.
+7. Create two subclasses:
+CoreCourse with an additional attribute required_for_major.
+8. ElectiveCourse with an additional attribute elective_type.
+9. Create objects for both subclasses and display their details.
+10. Completed work and uploded file in Github.
+
+
