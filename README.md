@@ -162,5 +162,28 @@ CoreCourse with an additional attribute required_for_major.
 8. ElectiveCourse with an additional attribute elective_type.
 9. Create objects for both subclasses and display their details.
 10. Completed work and uploded file in Github.
+==========================================================
 
+# Python Assignemnt 6 / Employee Module (Question 2)
 
+This file is my projects regarding the topic on Python Jupyter, Viewers can see my latest works under this file.
+
+Submitted : Hari sankar
+
+# Python_Part_Assignment_OOPs
+
+# Steps :
+
+1. Opened Jupyter noteook.
+2. Connecte to Kernel.
+3. Worked on Excercise below.
+4. Named the workbook as Assignemnt6 Employee Module_Ques 2 .
+5. Worked on exercise:
+6. Defined two attributes: name and salary
+7. Added two methods: get_name() and get_salary() to retrieve employee details.
+8. Created two employee objects:
+emp1 = Employee("Jishnu Sudhakar", 80000)
+emp2 = Employee("Amrutha K", 20000)
+9. Used input() to let the user choose between Employee 1 and Employee 2.
+10. Displayed details based on the user’s selection
+11. Completed work and uploded file in Github.
