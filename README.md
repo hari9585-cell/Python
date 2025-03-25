@@ -187,3 +187,30 @@ emp2 = Employee("Amrutha K", 20000)
 9. Used input() to let the user choose between Employee 1 and Employee 2.
 10. Displayed details based on the user’s selection
 11. Completed work and uploded file in Github.
+
+===========================================================================
+
+
+# Python Assignemnt 7 / Numpy Pandas
+
+This file is my projects regarding the topic on Python Jupyter, Viewers can see my latest works under this file.
+
+Submitted : Hari sankar
+
+# Numpy Pandas
+
+# Steps :
+
+1. Opened Jupyter noteook.
+2. Connecte to Kernel.
+3. Worked on Excercise below.
+4. Named the workbook as Assignemnt7_Numpy Pandas 
+5. Import NumPy, create an array from 1 to 10, reshape it, and print.
+6. Create an array from 1 to 20, extract elements, and print.
+7. Import Pandas, create a series, add 'pears' with value 4, and print.
+8. Define data, create a DataFrame, and print
+9. Add a new column with predefined values and print.
+10. Filter rows where age is 30 or more and print.
+11. Save DataFrame to a CSV file, read it back, and print.
+12. Completed work and uploded file in Github.
+
