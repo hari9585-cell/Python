@@ -234,3 +234,85 @@ Submitted : Hari sankar
 6. Worked on scatter plot using seaborn that shows the relationship between the number of hours studied and the test scores obtained by a group of students.
 7. Create a bar chart using matplotlib pyplot that shows the total sales for each month of the year.
 8. Completed work and uploded file in Github.
+
+   ================================================================
+
+   
+# Python Assignemnt 9// Module end project
+
+This file is my projects regarding the topic on Python Jupyter, Viewers can see my latest works under this file.
+
+Submitted : Hari sankar
+
+# Module end project for python
+
+
+# Steps :
+
+1. Opened Jupyter noteook.
+2. Connecte to Kernel.
+3. Worked on Excercise below.
+4. Named the workbook as Python module end project.
+5. Done with correction on the data in the "height" column by replacing it with random numbers between 150 and 180
+6. Worked on many tasks below:
+7. Tasks:1. Determine the distribution of employees across each team and calculate the percentage split relative to the total number of employees.
+8. Task:2. Segregated employees based on their positions within the company.
+9. Task:3. Identifed the predominant age group among employees.
+10. Task:4. Founded which team and position have the highest salary expenditure. 
+11. Task:5. Investigated if there's any correlation between age and salary, and represented it visually
+12. Worked on graphical Representation.
+13. Provided data Story, Provide insights gained from the analysis, highlighting key trends, patterns, and correlations within the dataset.
+14. Shared Data insight in word file in drive 
+15. Completed work and uploded file in Github.
+
+
+#Python Module End Assignment 
+
+The data was downloaded from below link:
+
+https://docs.google.com/spreadsheets/d/1VP9BE_eI2yl6uUHSm4mGiiwjRdoqCqnkcIjsv5Q2ex4/edit?usp=share_link 
+
+#Project Summary and Findings
+
+1. Data Preprocessing
+
+The "height" column was replaced with random values between 150 and 180 to maintain data integrity.
+Missing values (if any) were handled appropriately to ensure a clean dataset.
+
+2. Analysis and Key Findings
+
+2.1 Employee Distribution Across Teams
+
+The team with the highest number of employees is New Orleans Team, making up 4.148 % of the workforce.
+
+The team with the least employees is Orlando Magic and Minnesota Timberwolves., contributing only 3.056 % to the total.
+
+2.2 Employee Segregation by Position
+
+The most common job position is SG position.
+The least common position is C Position.
+
+2.3 Predominant Age Group
+
+The majority of employees fall in the age category 20 to 30 Age category.
+Very few employees are in the 50 to 60 age category  indicating less workforce.
+
+2.4 Highest Salary Expenditure by Team & Position
+
+Team named Cleveland cavaliers has the highest total salary expenditure, suggesting a higher number of senior roles or specialized skills in this team.
+Position Named C is the most expensive role in terms of salary distribution.
+
+2.5 Finding for Correlation Between Age and Salary (0.21)
+
+A correlation coefficient of 0.21 suggests a weak positive correlation between age and salary. This means that as age increases, salary also tends to increase, but the relationship is not very strong.
+
+3. Visual Insights from Graphs
+
+Bar charts effectively show team distribution and salary expenses.
+
+Pie charts helped in visualizing employee percentage across positions.
+
+Scatter plots indicated the relationship between age and salary.
+
+Histograms provided insights into the age distribution of employees.
+
