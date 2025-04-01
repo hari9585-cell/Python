@@ -214,3 +214,23 @@ Submitted : Hari sankar
 11. Save DataFrame to a CSV file, read it back, and print.
 12. Completed work and uploded file in Github.
 
+
+  
+# Python Assignemnt 8 / Python-Data_Visualization
+
+This file is my projects regarding the topic on Python Jupyter, Viewers can see my latest works under this file.
+
+Submitted : Hari sankar
+
+# Python-Data_Visualization
+
+# Steps :
+
+1. Opened Jupyter noteook.
+2. Connecte to Kernel.
+3. Worked on Excercise below.
+4. Named the workbook as Assignemnt8 Python-Data_Visualization 
+5. Worked on Line Plot for Population Growth
+6. Worked on scatter plot using seaborn that shows the relationship between the number of hours studied and the test scores obtained by a group of students.
+7. Create a bar chart using matplotlib pyplot that shows the total sales for each month of the year.
+8. Completed work and uploded file in Github.
